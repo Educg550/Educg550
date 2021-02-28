@@ -30,4 +30,4 @@ Currently, using Visual Studio Code to work on my projects, GitHub for submittin
 ## ✉️ Contact
 I'm always open for new opportunities and experiences, you can reach me out on these social networks:
 
-![GitHub](./images/github.png) ![LinkedIn](./images/linkedin.png)
+[![GitHub](./images/github.png)](https://github.com/Educg550) [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/)
