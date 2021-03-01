@@ -1,4 +1,4 @@
-﻿# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" height="40px" />
+﻿# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px" />
 Welcome to my profile! 🙂
 
 My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷.
