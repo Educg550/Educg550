@@ -25,7 +25,9 @@ I'm currently working on my undergraduate final project and studying some techno
 ## 🛠️ Tools
 Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, Figma for design and GIMP/Photoshop for editing images.
 
-![PC](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+![Educg550 github stats](https://github-readme-stats.vercel.app/api?username=Educg550)
+
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 ## ✉️ Contact
 I'm always open for new opportunities and experiences, you can reach me out on these social networks:
