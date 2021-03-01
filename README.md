@@ -12,7 +12,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - TypeScript
 - Node.js
 
-![ReactJS](./images/react.png) ![React Native](./images/react-native.png) ![JS](./images/js.png) ![TS](./images/ts.png) ![Node.js](./images/node.png)
+![ReactJS](./images/react.png) ![React Native](./images/react-native.png) ![JS](./images/js.png) ![TS](./images/ts1.png) ![Node.js](./images/node.png)
 
 ## Other Technologies 
 - HTML
