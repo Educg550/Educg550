@@ -12,7 +12,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - TypeScript
 - Node.js
 
-![ReactJS](./images/react.svg) ![React Native](./images/react-native.svg) ![JS](./images/js.svg) ![TS](./images/ts1.svg) ![Node.js](./images/node.svg)
+![ReactJS](./images/react.svg) ![JS](./images/js.svg) ![TS](./images/ts.svg) ![Node.js](./images/node.svg)
 
 ## Other Technologies 
 - HTML
@@ -20,7 +20,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - PHP
 - MySQL
 
-![HTML](./images/html.svg)![CSS](./images/css.svg)![PHP](./images/php.svg) ![MySQL](./images/sql.svg)
+![HTML](./images/html.svg) ![CSS](./images/css.svg) ![PHP](./images/php.svg) ![MySQL](./images/sql.svg)
      
 ## 🛠️ Tools
 Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, Figma for design and GIMP/Photoshop for editing images.
