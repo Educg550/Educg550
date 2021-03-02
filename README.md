@@ -24,6 +24,7 @@ I'm currently working on my undergraduate final project and studying some techno
      
 ## 🛠️ Tools
 Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, Figma for design and GIMP/Photoshop for editing images.
+Fun fact: Monokai's #1 fan 😎
 
 <img src="https://github-readme-stats.vercel.app/api?username=Educg550&theme=monokai" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educg550&layout=compact&theme=monokai" />
