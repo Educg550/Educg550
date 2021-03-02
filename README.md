@@ -1,7 +1,7 @@
 ﻿# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px" />
 Welcome to my profile! 🙂
 
-My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷.
+My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷. I'm a Fullstack developer (Front-end is my strong point 💪), focused on improving my skills and knowledges whenever possible.
 
 ## 🖥️ Main Technologies
 I'm currently working on my undergraduate final project and studying some technologies for it, such as:
