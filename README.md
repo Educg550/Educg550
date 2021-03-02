@@ -12,7 +12,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - TypeScript
 - Node.js
 
-![ReactJS](./images/react.svg) ![JS](./images/js.svg) ![TS](./images/ts.svg) ![Node.js](./images/node.svg)
+![ReactJS](./images/react-dark.svg) ![JS](./images/js-dark.svg) ![TS](./images/ts-dark.svg) ![Node.js](./images/node-dark.svg)
 
 ## Other Technologies 
 - HTML
@@ -20,7 +20,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - PHP
 - MySQL
 
-![HTML](./images/html.svg) ![CSS](./images/css.svg) ![PHP](./images/php.svg) ![MySQL](./images/sql.svg)
+![HTML](./images/html-dark.svg) ![CSS](./images/css-dark.svg) ![PHP](./images/php-dark.svg) ![MySQL](./images/sql-dark.svg)
      
 ## 🛠️ Tools
 Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, Figma for design and GIMP/Photoshop for editing images.
@@ -33,4 +33,4 @@ Currently, using Visual Studio Code to work on my projects, GitHub for submittin
 ## ✉️ Contact
 I'm always open for new opportunities and experiences, you can reach me out on these social networks:
 
-[![GitHub](./images/github.svg)](https://github.com/Educg550) [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/)
+[![GitHub](./images/github-dark.svg)](https://github.com/Educg550) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/)
