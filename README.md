@@ -14,11 +14,12 @@ I'm currently working on my undergraduate final project and studying some techno
 
 ![ReactJS](./images/react-dark.svg) ![JS](./images/js-dark.svg) ![TS](./images/ts-dark.svg) ![Node.js](./images/node-dark.svg)
 
-## Other Technologies 
+## 🤖 Other Technologies 
 - HTML
 - CSS
 - PHP
 - MySQL
+- Java
 
 ![HTML](./images/html-dark.svg) ![CSS](./images/css-dark.svg) ![PHP](./images/php-dark.svg) ![MySQL](./images/sql-dark.svg) ![Java](./images/java-dark.svg)
      
