@@ -20,7 +20,7 @@ I'm currently working on my undergraduate final project and studying some techno
 - PHP
 - MySQL
 
-![HTML](./images/html-dark.svg) ![CSS](./images/css-dark.svg) ![PHP](./images/php-dark.svg) ![MySQL](./images/sql-dark.svg)
+![HTML](./images/html-dark.svg) ![CSS](./images/css-dark.svg) ![PHP](./images/php-dark.svg) ![MySQL](./images/sql-dark.svg) ![Java](./images/java-dark.svg)
      
 ## 🛠️ Tools
 Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, Figma for design and GIMP/Photoshop for editing images.
