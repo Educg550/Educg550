@@ -8,13 +8,12 @@ My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grad
 ## 🖥️ Main Technologies
 I'm currently working on my undergraduate final project and studying some technologies for it, such as:
 
-- ReactJS
-- Ionic 
+- React Native 
 - JavaScript
 - TypeScript
 - Node.js
 
-![ReactJS](./images/react-dark.svg) ![Ionic](./images/ionic-dark.svg) ![JS](./images/js-dark.svg) ![TS](./images/ts-dark.svg) ![Node.js](./images/node-dark.svg)
+![ReactJS](./images/react-dark.svg) ![JS](./images/js-dark.svg) ![TS](./images/ts-dark.svg) ![Node.js](./images/node-dark.svg)
 
 ## 🤖 Other Technologies 
 - HTML
@@ -36,4 +35,4 @@ Currently, using Visual Studio Code to work on my projects, GitHub for submittin
 ## ✉️ Contact
 I'm always open for new opportunities and experiences, you can reach me out on these social networks:
 
-[![MercadoLivre](./images/mercado-livre-dark.svg)](https://www.mercadolivre.com.br/perfil/EDUCG550) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/) [![Outlook](./images/outlook-dark.svg)](mailto:eduardo9cruz@outlook.com)
+[![MercadoLivre](./images/mercado-livre-dark.svg)](https://www.mercadolivre.com.br/perfil/KEYTENDO+DESBLOQUEIOS) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/) [![Outlook](./images/outlook-dark.svg)](mailto:eduardo9cruz@outlook.com)
