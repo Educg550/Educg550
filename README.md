@@ -1,7 +1,7 @@
 ﻿# Hey there <img src="./images/hi.gif" width="30px" height="30px" />
 Welcome to my profile! 🙂
 
-My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷. I'm a Fullstack developer (Front-end is my strong point 💪), focused on improving my skills and knowledges whenever possible.
+My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷. I'm a Fullstack developer focused on improving my skills and knowledges whenever possible.
 
 🦄 Fun fact: Monokai's #1 fan 😎
 
@@ -35,4 +35,4 @@ Currently, using Visual Studio Code to work on my projects, GitHub for submittin
 ## ✉️ Contact
 I'm always open for new opportunities and experiences, you can reach me out on these social networks:
 
-[![MercadoLivre](./images/mercado-livre-dark.svg)](https://www.mercadolivre.com.br/perfil/KEYTENDO+DESBLOQUEIOS) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/) [![Outlook](./images/outlook-dark.svg)](mailto:eduardo9cruz@outlook.com)
+[![MercadoLivre](./images/mercado-livre-dark.svg)](https://www.mercadolivre.com.br/perfil/EDUCG550) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/) [![Outlook](./images/outlook-dark.svg)](mailto:eduardo9cruz@outlook.com)
