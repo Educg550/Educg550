@@ -1,38 +1,28 @@
-﻿# Hey there <img src="./images/hi.gif" width="30px" height="30px" />
-Welcome to my profile! 🙂
+<h1 align="center">Hey there 👋, I'm DogeDev 🐶</h1>
+<h3 align="center">I'm a 18 years old frontend developer from Brazil 🇧🇷, focused on improving my design skills 🖌️ and programming knowledges 🖥️ everyday</h3>
 
-My name is Eduardo Cruz Guedes, I'm 17 years old and currently in the third grade of Systems Development at **ETEC Prof. Camargo Aranha**, São Paulo, Brazil 🇧🇷. I'm a Fullstack developer focused on improving my skills and knowledges whenever possible.
+- 🔭 I’m currently working on **several frontend projects**
 
-🦄 Fun fact: Monokai's #1 fan 😎
+- 🌱 I’m currently learning **Node.js, PHP, MySQL and English 🇬🇧**
 
-## 🖥️ Main Technologies
-I'm currently working on my undergraduate final project and studying some technologies for it, such as:
+- 📝 I regularly write articles on [my website](https://doge-dev.vercel.app/), check it out!
 
-- React Native 
-- JavaScript
-- TypeScript
-- Node.js
+- 💬 Ask me about **ReactJS/Native, TypeScript, Firebase, Figma**
 
-![ReactJS](./images/react-dark.svg) ![JS](./images/js-dark.svg) ![TS](./images/ts-dark.svg) ![Node.js](./images/node-dark.svg)
+- 📫 How to reach me: **eduardo9cruz@outlook.com**
 
-## 🤖 Other Technologies 
-- HTML
-- CSS
-- PHP
-- MySQL
-- Java
+- 🦄 Fun fact **Monokai's #1 fan 😎**
 
-![HTML](./images/html-dark.svg) ![CSS](./images/css-dark.svg) ![PHP](./images/php-dark.svg) ![MySQL](./images/sql-dark.svg) ![Java](./images/java-dark.svg)
-     
-## 🛠️ Tools
-Currently, using Visual Studio Code to work on my projects, GitHub for submitting them, KDE Neon for coding, Figma for design and GIMP/Photoshop for editing images.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/educg550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="educg550" height="30" width="40" /></a>
+<a href="https://instagram.com/educg550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="educg550" height="30" width="40" /></a><a href="https://www.mercadolivre.com.br/perfil/EDUCG550"><img src="https://http2.mlstatic.com/frontend-assets/ui-navigation/5.18.7/mercadolibre/logo-pt__large_plus.png" height="30" align="center" /></a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Educg550&theme=monokai" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educg550&layout=compact&theme=monokai" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img align="right" src="./images/computer-illustration.png" width="350"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=educg550&show_icons=true&locale=en&layout=compact&theme=monokai" alt="educg550" /></p>
 
-## ✉️ Contact
-I'm always open for new opportunities and experiences, you can reach me out on these social networks:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=educg550&show_icons=true&locale=en&theme=monokai" alt="educg550" /></p>
 
-[![MercadoLivre](./images/mercado-livre-dark.svg)](https://www.mercadolivre.com.br/perfil/EDUCG550) [![LinkedIn](./images/linkedin-dark.svg)](https://www.linkedin.com/in/eduardo-cruz-guedes-276a01206/) [![Outlook](./images/outlook-dark.svg)](mailto:eduardo9cruz@outlook.com)
