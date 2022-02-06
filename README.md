@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm DogeDev 🐶</h1>
+<h1 align="center">Hey there <img src="./images/hi.gif" width="40px" height="40px" />, I'm DogeDev 🐶</h1>
 <h3 align="center">I'm a 18 years old frontend developer from Brazil 🇧🇷, focused on improving my design skills 🖌️ and programming knowledges 🖥️ everyday</h3>
 
 - 🔭 I’m currently working on **several frontend projects**
