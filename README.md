@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **several frontend projects**
 
+- 👨‍🎓 I'm currently pursuing a bachelor's degree in Computer Science 💻 at USP
+
 - 🌱 I’m currently learning **Node.js, PHP, MySQL and English 🇬🇧**
 
 - 📝 I regularly write articles on [my website](https://doge-dev.vercel.app/), check it out!
