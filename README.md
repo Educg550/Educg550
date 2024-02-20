@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Eduardo, but you can call me Milla 🐶</h1>
-<h3 align="center">I'm a 19.95 years old developer from 🇧🇷, focused on improving my design skills and programming. GG</h3>
+<h3 align="center">I'm a 19.95 years old developer from 🇨🇴, focused on improving my design skills and programming. GG</h3>
 
 - I'm currently pursuing a bachelor's degree in Computer Science 💻 at USP
 
