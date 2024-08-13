@@ -1,13 +1,13 @@
 <h1 align="center">Hey there <img src="./images/hi.gif" width="40px" height="40px" />, I'm Eduardo, but you can call me DogeDev 🐶</h1>
-<h3 align="center">I'm a 18 years old developer from Brazil 🇧🇷, focused on improving my design skills 🖌️ and programming knowledges 🖥️ everyday</h3>
+<h3 align="center">A passionate developer from Brazil 🇧🇷, focused on improving Data Science 📊 and programming skills 🖥️ everyday</h3>
 
 - 👨‍🎓 I'm currently pursuing a bachelor's degree in Computer Science 💻 at USP
 
 - 🌱 I’m currently learning **[ML, CV, Python, Tensorflow, 🦎]**
 
-- 📝 I regularly write articles on [my website](https://doge-dev.vercel.app/), check it out!
+- 📝 I regularly write articles on [Turing Talks](https://medium.com/turing-talks) and in my [website](https://doge-dev.vercel.app/blog), check it out!
 
-- 💬 Ask me about **ReactJS, TypeScript, C++, Python, HTML + CSS**
+- 💬 Ask me about **ReactJS, TypeScript, Python, Computer Vision, ML, C++, HTML, CSS**
 
 - 📫 How to reach me: **eduardo9cruz@outlook.com**
 
