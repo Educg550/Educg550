@@ -34,4 +34,5 @@
   </a>
 </p>
 
+<p align="center">👨‍💻 Open source enthusiast 👨‍💻</p>
 <p align="center">🦄 Fun fact: Monokai's #1 fan 😎</p>
